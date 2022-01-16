@@ -4,7 +4,7 @@
   "description": "get a date and return true if it is holiday ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/AliZolfaghar/isholiday/issues"
   },
-  "homepage": "https://github.com/AliZolfaghar/isholiday#readme"
+  "homepage": "https://github.com/AliZolfaghar/isholiday#readme",
+  "dependencies": {
+    "azdate": "^1.0.1",
+    "hijri": "^0.5.0",
+    "moment-hijri": "^2.1.2"
+  }
 }
