@@ -1,5 +1,5 @@
 {
-  "name": "isholiday",
+  "name": "azisholiday",
   "version": "1.0.0",
   "description": "get a date and return true if it is holiday ",
   "main": "index.js",
